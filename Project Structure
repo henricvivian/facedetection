@@ -1,0 +1,14 @@
+face-detection/
+│
+├── src/
+│   ├── __init__.py
+│   ├── face_detection.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_face_detection.py
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
